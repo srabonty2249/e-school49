@@ -1,0 +1,160 @@
+font
+poppins 400  500 700
+roboto  400
+font-family: "Roboto", sans-serif;
+font-family: "Poppins", sans-serif;
+
+
+
+
+button pore
+
+
+
+  <!--single item start-->
+      <div class="col-lg-4">
+        <div class="c_course">
+          <div class="c_img">
+            <img src="images/feature1.jpg" class="w-100"alt="E-School">
+          </div>
+          <h2 class="co_h2">Modern Psychology</h2>
+          <p class="co_p mb-0">Designation</p>
+          <a class="btn btn_c btn_co" href="#">Buy Course</a>
+          <div class="overflow-hidden">
+           <div class="c_left float-start">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item m-0">
+                <img src="images/calender.png" class="img-fluid" alt="E-school ">
+              </li>
+              <li class="list-inline-item">
+                <span>Start 20  April, 2021</span>
+              </li>
+            </ul>
+           </div>
+           <div class="c_right float-end">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item m-0">
+                <img src="images/peaple.png" class="img-fluid" alt="E-school">
+              </li>
+              <li class="list-inline-item">
+                <span>60 seats</span>
+              </li>
+            </ul> 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+ <!--single item-->
+ <!--single item start-->
+      <div class="col-lg-4">
+        <div class="c_course">
+          <div class="c_img">
+            <img src="images/feature1.jpg" class="w-100"alt="E-School">
+          </div>
+          <h2 class="co_h2">Modern Psychology</h2>
+          <p class="co_p mb-0">Designation</p>
+          <a class="btn btn_c btn_co" href="#">Buy Course</a>
+          <div class="overflow-hidden">
+           <div class="c_left float-start">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item m-0">
+                <img src="images/calender.png" class="img-fluid" alt="E-school ">
+              </li>
+              <li class="list-inline-item">
+                <span>Start 20  April, 2021</span>
+              </li>
+            </ul>
+           </div>
+           <div class="c_right float-end">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item m-0">
+                <img src="images/peaple.png" class="img-fluid" alt="E-school">
+              </li>
+              <li class="list-inline-item">
+                <span>60 seats</span>
+              </li>
+            </ul> 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+ <!--single item-->
+ <!--single item start-->
+      <div class="col-lg-4">
+        <div class="c_course">
+          <div class="c_img">
+            <img src="images/feature1.jpg" class="w-100"alt="E-School">
+          </div>
+          <h2 class="co_h2">Modern Psychology</h2>
+          <p class="co_p mb-0">Designation</p>
+          <a class="btn btn_c btn_co" href="#">Buy Course</a>
+          <div class="overflow-hidden">
+           <div class="c_left float-start">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item m-0">
+                <img src="images/calender.png" class="img-fluid" alt="E-school ">
+              </li>
+              <li class="list-inline-item">
+                <span>Start 20 April, 2021</span>
+              </li>
+            </ul>
+           </div>
+           <div class="c_right float-end">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item m-0">
+                <img src="images/peaple.png" class="img-fluid" alt="E-school">
+              </li>
+              <li class="list-inline-item">
+                <span>60 seats</span>
+              </li>
+            </ul> 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+ <!--single item-->
+
+ .course{}
+.c_title{}
+.c_title h1{
+	font-size: 36px;
+	font-weight: 700;
+	color: var(--black);
+	line-height: 54px;
+}
+.c_course{
+	margin: 60px 0 0;
+	padding: 24px 20px 30px;
+	border-radius: 18px;
+	box-shadow: 0px 10px 40px 0px #0000001A;
+
+}
+.c_img{}
+.c_img img{
+     border-radius: 11px;
+}
+.co_h2{
+	margin: 20px 0 5px;
+	font-size: 24px;
+	font-weight: 500;
+	color: var(--black);
+	line-height: 36px;
+}
+.co_p{}
+.btn_co{
+	margin: 20px 0 35px;
+	padding: 8px 28px;
+}
+
+.c_left{}
+.c_left ul li img{}
+.c_left ul li span, .c_right ul li span{
+	margin-left: -8;
+	font-weight: 500;
+}
+.c_right{}
+.c_right ul li img{}
+{}
